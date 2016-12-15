@@ -1,2 +1,1 @@
-# Masterind-IDE-development
-Step by step Eclipse-based IDE for OCaml language
+Сюда буду постепенно выкладывать исходники к задуманной мной серии статей на хабре о написании с нуля полноценной IDE на базе Eclipse.
